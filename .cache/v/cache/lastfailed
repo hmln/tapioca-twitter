@@ -1,0 +1,3 @@
+{
+  "tests/test_tapioca_twitter.py::TestTapioca::test_resource_access": true
+}
